@@ -273,7 +273,7 @@
     },
     {
       "name": "screenshot",
-      "rootUri": "file:///Users/loc.nd/.pub-cache/hosted/pub.dev/screenshot-2.5.0",
+      "rootUri": "file:///Users/loc.nd/.pub-cache/hosted/pub.dev/screenshot-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -374,7 +374,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-07-04T08:38:04.867312Z",
+  "generated": "2025-07-04T08:43:23.095310Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/loc.nd/fvm/versions/3.22.2",
